@@ -12,24 +12,30 @@
 
 ### Project: Score Keeper App
 **Project Description:** Design and implement an app to track scores between two teams playing a game.
-The app tracks scores for basketball game.
+
+*The app tracks scores for basketball game.*
 
 ### Project: Quiz App
 **Project Description:** Design and implement a short quiz app about some topic.
-The app is movie question quiz, funn and old school.
+
+*The app is movie question quiz, fun and old school.*
 
 ### Project: Musical Structure
 **Project Description:** Create the structure of an app to play music for a user and build it out.
-The app tracks scores for basketball game.
+
+*The app imple scores for basketball game.*
 
 ### Project: Tour Guide App
 **Project Description:** Create an app to guide a user around a city or location of your choice!
-The app tracks scores for basketball game.
+
+*This app show some basic information about my city and near by locations.*
 
 ### Project: News App
 **Project Description:** Create an app to display recent news stories on a topic of your choice using an API.
-The app tracks scores for basketball game.
+
+*The app tracks scores for basketball game.*
 
 ### Project: Inventory App
 **Project Description:** Create the data structure for an app that tracks the inventory of a retail store, including current stock and supplier information.
-The app tracks scores for basketball game.
+
+*The app tracks scores for basketball game.*
