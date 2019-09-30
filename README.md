@@ -8,6 +8,8 @@
 - **Networking** - learning how to use Web APIs, basics of networking in Android, including HTTP networking, JSON parsing, and threads.
 - **Data Storage** - working with SQLite databases and Content Providers, which helps to keep data bug-free and allows to share data storage with other developers.
 
+Click on the project name to see more.
+
 ## List of Projects Developed during this program:
 
 ### Project: [Quiz App](https://github.com/VeDRrana/Quiz)
