@@ -10,28 +10,20 @@
 
 ## List of Projects Developed during this program:
 
-### Project: Score Keeper App
-**Project Description:** Design and implement an app to track scores between two teams playing a game.
-
-![3](https://user-images.githubusercontent.com/40859221/65881165-49d67580-e393-11e9-8699-90b9246cacff.png)
-
 ### Project: [Quiz App](https://github.com/VeDRrana/Quiz)
 **Project Description:** Design and implement a short quiz app about some topic.
+
+![4](https://user-images.githubusercontent.com/40859221/65884007-5c06e280-e398-11e9-9632-ea96ab48e8fb.png)
 
 ### Project: [Tour Guide App](https://github.com/VeDRrana/TourGide)
 **Project Description:** Create an app to guide a user around a city or location of your choice!
 
-*This app show some basic information about my city and near by locations.*
-
 ![1](https://user-images.githubusercontent.com/40859221/65880633-63c38880-e392-11e9-94ee-5fcb89a4da29.png)
-![2](https://user-images.githubusercontent.com/40859221/65880649-67570f80-e392-11e9-9dfe-d8b2d312230e.png)
+![2](https://user-images.githubusercontent.com/40859221/65884960-0e8b7500-e39a-11e9-912b-cda96d84f85e.png)
 
-### Project: News App
+### Project: [News App](https://github.com/VeDRrana/Newsapp)
 **Project Description:** Create an app to display recent news stories on a topic of your choice using an API.
 
-*The app tracks scores for basketball game.*
-
-### Project: Inventory App
+### Project: [Inventory App](https://github.com/VeDRrana/InventoryApp)
 **Project Description:** Create the data structure for an app that tracks the inventory of a retail store, including current stock and supplier information.
 
-*The app tracks scores for basketball game.*
