@@ -13,20 +13,18 @@
 ### Project: Score Keeper App
 **Project Description:** Design and implement an app to track scores between two teams playing a game.
 
-*The app tracks scores for basketball game.*
+![3](https://user-images.githubusercontent.com/40859221/65881165-49d67580-e393-11e9-8699-90b9246cacff.png)
 
 ### Project: [Quiz App](https://github.com/VeDRrana/Quiz)
 **Project Description:** Design and implement a short quiz app about some topic.
 
-### Project: Musical Structure
-**Project Description:** Create the structure of an app to play music for a user and build it out.
-
-*The app imple scores for basketball game.*
-
-### Project: Tour Guide App
+### Project: [Tour Guide App](https://github.com/VeDRrana/TourGide)
 **Project Description:** Create an app to guide a user around a city or location of your choice!
 
 *This app show some basic information about my city and near by locations.*
+
+![1](https://user-images.githubusercontent.com/40859221/65880633-63c38880-e392-11e9-94ee-5fcb89a4da29.png)
+![2](https://user-images.githubusercontent.com/40859221/65880649-67570f80-e392-11e9-9dfe-d8b2d312230e.png)
 
 ### Project: News App
 **Project Description:** Create an app to display recent news stories on a topic of your choice using an API.
