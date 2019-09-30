@@ -15,10 +15,8 @@
 
 *The app tracks scores for basketball game.*
 
-### Project: Quiz App
+### Project: [Quiz App](https://github.com/VeDRrana/Quiz)
 **Project Description:** Design and implement a short quiz app about some topic.
-
-*The app is movie question quiz, fun and old school.*
 
 ### Project: Musical Structure
 **Project Description:** Create the structure of an app to play music for a user and build it out.
